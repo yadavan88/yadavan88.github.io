@@ -1,4 +1,6 @@
-### Coursier Cheatsheets ###
+## Articles and Scala Experiments
+
+### Coursier Cheatsheets
 
 Coursier is a very useful tool for any Scala Developers. From installing JVMs and REPLs to identifying the transitive dependencies of libraries, I use it very often.
 You can find the [cheatsheet](https://github.com/yadavan88/coursier-cheatsheets) for coursier commands. 
