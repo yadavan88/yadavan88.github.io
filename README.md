@@ -18,6 +18,7 @@ Alpakka is a very powerful akka stream based integration library. It is competin
 ### Links to my Baeldung articles 
 
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
+- [ScalaCache](https://www.baeldung.com/scala/scalacache)
 - [Alpakka](https://www.baeldung.com/scala/alpakka-intro)
 - [Akka Scheduler](https://www.baeldung.com/scala/akka-scheduler)
 - [Reactive Mongo](https://www.baeldung.com/scala/mongo-reactive-intro)
