@@ -20,6 +20,7 @@ Scala-3 has completely redesigned macros. It has introduced a new modifier _inli
 ### Links to my Baeldung articles 
 
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
+- [inline Modifier in Scala-3](https://www.baeldung.com/scala/inline-modifier)
 - [ScalaCache](https://www.baeldung.com/scala/scalacache)
 - [Alpakka](https://www.baeldung.com/scala/alpakka-intro)
 - [Implicit Redesign in Scala3](https://www.baeldung.com/scala/scala-3-implicit-redesign)
