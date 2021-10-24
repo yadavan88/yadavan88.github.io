@@ -13,7 +13,9 @@ A sample usage of the newly introduced [Opaque Type Alias](https://github.com/ya
 
 Alpakka is a very powerful akka stream based integration library. It is competing against Apache Camel. [Here](https://github.com/yadavan88/alpakka-mongo-sample) is a sample implmentation of Alpakka with MongoDB connector. 
 
+### Inlline Modifier in Scala-3
 
+Scala-3 has completely redesigned macros. It has introduced a new modifier _inline_ to cover a lot of macro cases without actually writing macro. It optimises the code at compile time. More detailed usecases of [inline modifier is available here](https://www.baeldung.com/scala/inline-modifier).
 
 ### Links to my Baeldung articles 
 
