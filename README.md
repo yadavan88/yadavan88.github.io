@@ -17,6 +17,10 @@ Alpakka is a very powerful akka stream based integration library. It is competin
 
 Scala-3 has completely redesigned macros. It has introduced a new modifier _inline_ to cover a lot of macro cases without actually writing macro. It optimises the code at compile time. More detailed usecases of [inline modifier is available here](https://www.baeldung.com/scala/inline-modifier).
 
+### Enumeratum: Better enum library for Scala 2
+
+Enumerations are one of the most common features in any programming language. However, the in-built enum in Scala standard library has a lot of problems and many programmers avoid using it. We can use another library to overcome the issues in the standard library, and it is called **Enumeratum**. More details and sample usages on how we can use Enumeratum can be read [here](https://github.com/yadavan88/enumeratum-blog)
+
 ### Links to my Baeldung articles 
 
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
