@@ -31,6 +31,7 @@ Enumerations are one of the most common features in any programming language. Ho
 - [Implicit Redesign in Scala3](https://www.baeldung.com/scala/scala-3-implicit-redesign)
 - [Scala-3:Extension Methods](https://www.baeldung.com/scala/extension-methods)
 - [Akka Scheduler](https://www.baeldung.com/scala/akka-scheduler)
+- [Different Ways to Stop Actors](https://www.baeldung.com/scala/stop-akka-actors)
 - [Reactive Mongo](https://www.baeldung.com/scala/mongo-reactive-intro)
 - [Coursier](https://www.baeldung.com/scala/coursier-env-setup)
 - [Opaque Type Alias](https://www.baeldung.com/scala/opaque-type-alias)
