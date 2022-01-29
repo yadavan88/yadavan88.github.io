@@ -9,6 +9,10 @@ You can find the [cheatsheet](https://github.com/yadavan88/coursier-cheatsheets)
 
 A sample usage of the newly introduced [Opaque Type Alias](https://github.com/yadavan88/opaque-type-sample) in Scala 3.
 
+### Different ways to package Scala Apps
+
+There are many ways in which we can package our simple scala applications. A few of the common and useful packaging tools are described [here](https://github.com/yadavan88/scala-app-packaging-methods).
+
 ### How to use Alpakka?
 
 Alpakka is a very powerful akka stream based integration library. It is competing against Apache Camel. [Here](https://github.com/yadavan88/alpakka-mongo-sample) is a sample implmentation of Alpakka with MongoDB connector. 
