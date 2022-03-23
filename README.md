@@ -25,6 +25,9 @@ Scala-3 has completely redesigned macros. It has introduced a new modifier _inli
 
 Enumerations are one of the most common features in any programming language. However, the in-built enum in Scala standard library has a lot of problems and many programmers avoid using it. We can use another library to overcome the issues in the standard library, and it is called **Enumeratum**. More details and sample usages on how we can use Enumeratum can be read [here](https://github.com/yadavan88/enumeratum-blog)
 
+### Configuration Management using PureConfig
+PureConfig is a typesafe configuration library in Scala. It can read JSON, HOCON and properties files. A brief usage and introduction can be [read here](https://www.baeldung.com/scala/pureconfig-load-config-files).
+
 ### Introduction to Clear-Config
 Clear-Config is a typesafe and pure-FP scala library for reading configuration files. It provides an excellant clarity on which configurations are applied to the application. Introduction to Clear-Config with some basic examples can be read [here](https://yadukrishnan.hashnode.dev/clear-config-in-scala).
 
@@ -37,6 +40,7 @@ Clear-Config is a typesafe and pure-FP scala library for reading configuration f
 - [Alpakka](https://www.baeldung.com/scala/alpakka-intro)
 - [Implicit Redesign in Scala3](https://www.baeldung.com/scala/scala-3-implicit-redesign)
 - [Scala-3:Extension Methods](https://www.baeldung.com/scala/extension-methods)
+- [Read Configurations using PureConfig](https://www.baeldung.com/scala/pureconfig-load-config-files)
 - [Akka Scheduler](https://www.baeldung.com/scala/akka-scheduler)
 - [Packaging Scala Apps](https://www.baeldung.com/scala/package-app)
 - [Mockito with ScalaTest](https://www.baeldung.com/scala/scalatest-mockito)
@@ -46,4 +50,3 @@ Clear-Config is a typesafe and pure-FP scala library for reading configuration f
 - [Opaque Type Alias](https://www.baeldung.com/scala/opaque-type-alias)
 - [Range in Scala](https://www.baeldung.com/scala/range)
 - [% and %% in SBT](https://www.baeldung.com/scala/percent-symbols-build-sbt)
-
