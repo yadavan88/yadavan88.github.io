@@ -26,7 +26,8 @@ Scala-3 has completely redesigned macros. It has introduced a new modifier _inli
 Enumerations are one of the most common features in any programming language. However, the in-built enum in Scala standard library has a lot of problems and many programmers avoid using it. We can use another library to overcome the issues in the standard library, and it is called **Enumeratum**. More details and sample usages on how we can use Enumeratum can be read [here](https://github.com/yadavan88/enumeratum-blog)
 
 ### Configuration Management using PureConfig
-PureConfig is a typesafe configuration library in Scala. It can read JSON, HOCON and properties files. A brief usage and introduction can be [read here](https://www.baeldung.com/scala/pureconfig-load-config-files).
+PureConfig is a typesafe configuration library in Scala. It can read JSON, HOCON and properties files. It helps to avoid configuration mistakes and also reduces the boilerplate code required to handle the configuration files.
+More details along with code samples can be [read here](https://yadukrishnan.hashnode.dev/loading-configs-in-scala-using-pureconfig).
 
 ### Introduction to Clear-Config
 Clear-Config is a typesafe and pure-FP scala library for reading configuration files. It provides an excellant clarity on which configurations are applied to the application. Introduction to Clear-Config with some basic examples can be read [here](https://yadukrishnan.hashnode.dev/clear-config-in-scala).
