@@ -38,6 +38,7 @@ Clear-Config is a typesafe and pure-FP scala library for reading configuration f
 - [inline Modifier in Scala-3](https://www.baeldung.com/scala/inline-modifier)
 - [Simpler File Operations using Ammonite-ops](https://www.baeldung.com/scala/ammonite-ops-files)
 - [ScalaCache](https://www.baeldung.com/scala/scalacache)
+- [Python-like Http Client Using Requests-Scala](https://www.baeldung.com/scala/rest-with-requests-scala)
 - [Alpakka](https://www.baeldung.com/scala/alpakka-intro)
 - [Implicit Redesign in Scala3](https://www.baeldung.com/scala/scala-3-implicit-redesign)
 - [Scala-3:Extension Methods](https://www.baeldung.com/scala/extension-methods)
