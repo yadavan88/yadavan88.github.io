@@ -32,6 +32,9 @@ More details along with code samples can be [read here](https://yadukrishnan.has
 ### Introduction to Clear-Config
 Clear-Config is a typesafe and pure-FP scala library for reading configuration files. It provides an excellant clarity on which configurations are applied to the application. Introduction to Clear-Config with some basic examples can be read [here](https://yadukrishnan.hashnode.dev/clear-config-in-scala).
 
+### Creating a Custom Giter8(g8) Template
+Giter8(g8) is a command line tool to easily create scala projects from templates. We can create custom g8 templates to satisfy our needs. A brief introduction on creating custom giter8 template is [available here](https://github.com/yadavan88/giter8-demo.g8).
+
 ### Links to my Baeldung articles 
 
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
