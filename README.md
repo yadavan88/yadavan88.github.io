@@ -49,6 +49,7 @@ Giter8(g8) is a command line tool to easily create scala projects from templates
 - [Akka Scheduler](https://www.baeldung.com/scala/akka-scheduler)
 - [Packaging Scala Apps](https://www.baeldung.com/scala/package-app)
 - [Mockito with ScalaTest](https://www.baeldung.com/scala/scalatest-mockito)
+- [ScalaTest: Comparing collections in test](https://www.baeldung.com/scala/scalatest-compare-collections)
 - [Different Ways to Stop Actors](https://www.baeldung.com/scala/stop-akka-actors)
 - [Reactive Mongo](https://www.baeldung.com/scala/mongo-reactive-intro)
 - [Coursier](https://www.baeldung.com/scala/coursier-env-setup)
