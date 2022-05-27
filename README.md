@@ -37,7 +37,10 @@ Giter8(g8) is a command line tool to easily create scala projects from templates
 
 ### Links to my Baeldung articles 
 
+Baeldung Profile: https://www.baeldung.com/scala/author/yadukrishnan
+
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
+- [Clear Config](https://www.baeldung.com/scala/clearconfig)
 - [inline Modifier in Scala-3](https://www.baeldung.com/scala/inline-modifier)
 - [Simpler File Operations using Ammonite-ops](https://www.baeldung.com/scala/ammonite-ops-files)
 - [ScalaCache](https://www.baeldung.com/scala/scalacache)
