@@ -37,11 +37,14 @@ Clear-Config is a typesafe and pure-FP scala library for reading configuration f
 ### Creating a Custom Giter8(g8) Template
 Giter8(g8) is a command line tool to easily create scala projects from templates. We can create custom g8 templates to satisfy our needs. A brief introduction on creating custom giter8 template is [available here](https://github.com/yadavan88/giter8-demo.g8).
 
-### Links to my Baeldung articles 
+### Rock the JVM Contributions
+ - [Complete Slick Tutorial](https://blog.rockthejvm.com/slick/)
+### Baeldung Articles 
 
 Baeldung Profile: https://www.baeldung.com/scala/author/yadukrishnan
 
 - [Introduction to Slick](https://www.baeldung.com/scala/slick-intro)
+- [Cats Effect Fibers](https://www.baeldung.com/scala/cats-effect-fibers-concurrent-programming)
 - [Clear Config](https://www.baeldung.com/scala/clearconfig)
 - [inline Modifier in Scala-3](https://www.baeldung.com/scala/inline-modifier)
 - [Simpler File Operations using Ammonite-ops](https://www.baeldung.com/scala/ammonite-ops-files)
