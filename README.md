@@ -39,6 +39,7 @@ Giter8(g8) is a command line tool to easily create scala projects from templates
 
 ### Rock the JVM Contributions
  - [Complete Slick Tutorial](https://blog.rockthejvm.com/slick/)
+ - [SBT Tutorial](https://blog.rockthejvm.com/sbt-tutorial/)
 ### Baeldung Articles 
 
 Baeldung Profile: https://www.baeldung.com/scala/author/yadukrishnan
