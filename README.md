@@ -1,6 +1,6 @@
 ## Articles and Scala Experiments
 
-More articles are available in my blog, https://yadukrishnan.live
+Recently, I started writing more articles in my [blog](https://yadukrishnan.live). Please read and encourage if you find it useful.
 
 ### Coursier Cheatsheets
 
