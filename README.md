@@ -1,6 +1,7 @@
 ## Articles and Scala Experiments
 
 Recently, I started writing more articles in my [blog](https://yadukrishnan.live). Please read and encourage if you find it useful.
+
 I also write Scala article in [Baeldung](https://www.baeldung.com/scala/author/yadukrishnan).
 
 ### Coursier Cheatsheets
