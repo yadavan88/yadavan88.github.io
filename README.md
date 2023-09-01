@@ -2,8 +2,6 @@
 
 Recently, I started writing more articles in my [blog](https://yadukrishnan.live). Please read and encourage if you find it useful.
 
-I also write Scala article in [Baeldung](https://www.baeldung.com/scala/author/yadukrishnan).
-
 ### Coursier Cheatsheets
 
 Coursier is a very useful tool for any Scala Developers. From installing JVMs and REPLs to identifying the transitive dependencies of libraries, I use it very often.
