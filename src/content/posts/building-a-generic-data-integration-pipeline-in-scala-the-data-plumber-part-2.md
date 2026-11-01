@@ -10,8 +10,6 @@ ogImage: "/images/posts/building-a-generic-data-integration-pipeline-in-scala-th
 ---
 # Introduction
 
-> ***This blog is a part of the*** [***Data Plumber Series***](/tags/data-plumber/)[***.***](/tags/data-plumber/)
-
 In [Part 1](/posts/building-a-generic-data-integration-pipeline-in-scala-the-data-plumber-part-1/), we explored the basic implementation of our data pipeline framework, demonstrating the core concepts of type-safe data transformation between sources and sinks. While the simple implementation was great for understanding the basics, real-world applications need more robust features.
 
 In this part, we'll enhance our framework with several more features:
