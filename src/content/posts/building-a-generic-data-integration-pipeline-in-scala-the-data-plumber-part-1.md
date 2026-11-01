@@ -11,8 +11,6 @@ ogImage: "/images/posts/building-a-generic-data-integration-pipeline-in-scala-th
 ---
 # Introduction
 
-> This blog is a part of the [Data Plumber Series](/tags/data-plumber/).
-
 In today's enterprise applications, data integration is not just a feature—it's a fundamental requirement. Applications need to communicate with various systems using different protocols and formats:
 
 * File-based integrations (CSV, JSON, XML)
