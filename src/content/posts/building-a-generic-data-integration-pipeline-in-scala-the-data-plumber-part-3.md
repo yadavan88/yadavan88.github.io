@@ -10,8 +10,6 @@ ogImage: "/images/posts/building-a-generic-data-integration-pipeline-in-scala-th
 ---
 # Introduction
 
-> ***This blog is a part of the*** [***Data Plumber Series.***](/tags/data-plumber/)
-
 In [Parts 1](/posts/building-a-generic-data-integration-pipeline-in-scala-the-data-plumber-part-1/) and [Part 2](/posts/building-a-generic-data-integration-pipeline-in-scala-the-data-plumber-part-2/), we explored simple and batch-oriented data pipelines. Now, let's dive into continuous streaming data processing using FS2.
 
 # Streaming Data Plumber
