@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://yadavan88.github.io/",
-    title: "Yadukrishnan",
+    title: "Scribblings of an Introvert",
     description: "Blog about Scala, functional programming and software development.",
     author: "Yadukrishnan",
     profile: "https://github.com/yadavan88",
